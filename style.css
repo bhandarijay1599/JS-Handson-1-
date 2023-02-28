@@ -1,0 +1,12 @@
+.q{
+    margin-left: 200px;
+    width: 70vw;
+    border: 2px solid rgb(191, 147, 147);
+    background-color: rgb(121, 121, 121);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    color: rgb(21, 18, 57);
+}
